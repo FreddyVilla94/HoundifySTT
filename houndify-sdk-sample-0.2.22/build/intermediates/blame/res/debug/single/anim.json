@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\anim\\houndify_search_text_exit.xml",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\anim\\houndify_search_text_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\anim\\houndify_search_exit.xml",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\anim\\houndify_search_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\anim\\houndify_search_text_enter.xml",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\anim\\houndify_search_text_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\anim\\houndify_search_status_text_exit.xml",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\anim\\houndify_search_status_text_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\anim\\houndify_search_status_text_enter.xml",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\anim\\houndify_search_status_text_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\anim\\houndify_search_status_text_enter.xml",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\anim\\houndify_search_status_text_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\anim\\houndify_search_text_enter.xml",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\anim\\houndify_search_text_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\anim\\houndify_search_enter.xml",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\anim\\houndify_search_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\anim\\houndify_search_status_text_exit.xml",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\anim\\houndify_search_status_text_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\anim\\houndify_search_enter.xml",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\anim\\houndify_search_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\anim\\houndify_search_exit.xml",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\anim\\houndify_search_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\anim\\houndify_search_text_exit.xml",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\anim\\houndify_search_text_exit.xml"
+    }
+]

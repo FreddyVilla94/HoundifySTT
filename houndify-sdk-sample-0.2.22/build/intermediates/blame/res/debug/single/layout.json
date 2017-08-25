@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\layout\\houndify_view_search_status_text.xml",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\layout\\houndify_view_search_status_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\layout\\houndify_view_button.xml",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\layout\\houndify_view_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\layout\\houndify_view_search_status_text.xml",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\layout\\houndify_view_search_status_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\layout\\houndify_activity_voice.xml",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\layout\\houndify_activity_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\layout\\houndify_view_button.xml",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\layout\\houndify_view_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\layout\\houndify_fragment_search_styled.xml",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\layout\\houndify_fragment_search_styled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\layout\\houndify_view_scrolling_transcription_text.xml",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\layout\\houndify_view_scrolling_transcription_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\layout\\houndify_view_search_status_subtitle_text.xml",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\layout\\houndify_view_search_status_subtitle_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\layout\\houndify_view_search_panel.xml",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\layout\\houndify_view_search_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\layout\\houndify_view_search_panel.xml",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\layout\\houndify_view_search_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\layout\\houndify_view_search_status_subtitle_text.xml",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\layout\\houndify_view_search_status_subtitle_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hound_search.xml",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\src\\main\\res\\layout\\activity_hound_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hound_search.xml",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\src\\main\\res\\layout\\activity_hound_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\layout\\houndify_fragment_search_styled.xml",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\layout\\houndify_fragment_search_styled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\layout\\houndify_activity_voice.xml",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\layout\\houndify_activity_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\layout\\houndify_view_scrolling_transcription_text.xml",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\layout\\houndify_view_scrolling_transcription_text.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\raw\\houndify_start.wav",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\raw\\houndify_start.wav"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\raw\\houndify_start.wav",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\raw\\houndify_start.wav"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\raw\\houndify_stop.wav",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\raw\\houndify_stop.wav"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\raw\\houndify_stop.wav",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\raw\\houndify_stop.wav"
+    }
+]

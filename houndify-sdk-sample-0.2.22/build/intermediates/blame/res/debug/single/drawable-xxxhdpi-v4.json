@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\houndify_btn_close_listening.png",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\drawable-xxxhdpi-v4\\houndify_btn_close_listening.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_search_listening_houndify_attribution_black.png",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\drawable-xxxhdpi-v4\\ic_search_listening_houndify_attribution_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\houndify_btn_search_loader.png",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\drawable-xxxhdpi-v4\\houndify_btn_search_loader.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\houndify_btn_search_loader.png",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\drawable-xxxhdpi-v4\\houndify_btn_search_loader.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\houndify_btn_close_listening.png",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\drawable-xxxhdpi-v4\\houndify_btn_close_listening.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\houndify_btn_search_listening.png",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\drawable-xxxhdpi-v4\\houndify_btn_search_listening.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\houndify_btn_search_listening_pressed.png",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\drawable-xxxhdpi-v4\\houndify_btn_search_listening_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\houndify_btn_search_listening_pressed.png",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\drawable-xxxhdpi-v4\\houndify_btn_search_listening_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_search_listening_houndify_attribution_white_transparent.png",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\drawable-xxxhdpi-v4\\ic_search_listening_houndify_attribution_white_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_search_listening_houndify_attribution_black.png",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\drawable-xxxhdpi-v4\\ic_search_listening_houndify_attribution_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\houndify_btn_search_listening_help.png",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\drawable-xxxhdpi-v4\\houndify_btn_search_listening_help.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_search_listening_houndify_attribution_white_transparent.png",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\drawable-xxxhdpi-v4\\ic_search_listening_houndify_attribution_white_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\houndify_btn_search_listening.png",
+        "source": "C:\\Users\\Freddy\\Downloads\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\drawable-xxxhdpi-v4\\houndify_btn_search_listening.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\houndify_btn_search_listening_help.png",
+        "source": "C:\\Users\\Freddy\\AndroidStudioProjects\\houndify-sdk-sample-0.2.22\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.21\\res\\drawable-xxxhdpi-v4\\houndify_btn_search_listening_help.png"
+    }
+]

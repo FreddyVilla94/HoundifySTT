@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:top="@dimen/houndify_btn_search_background_padding"
+        android:right="@dimen/houndify_btn_search_background_padding"
+        android:left="@dimen/houndify_btn_search_background_padding"
+        android:bottom="@dimen/houndify_btn_search_background_padding"
+        >
+
+        <shape
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="oval">
+            <solid
+                android:color="@color/houndify_search_mask"/>
+        </shape>
+    </item>
+</layer-list>
+
+
+
+
